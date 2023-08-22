@@ -7,7 +7,7 @@ const querystring = require('querystring');
 const jiraUrl = 'https://jiraticketfortwilio.atlassian.net/jira/servicedesk/projects/TM/queues/custom/4';
 
 //vasaviseelam@gmail.com
-const username = 'YOUR_USERNAME';
+const username = 'vasaviseelam@gmail.com';
 
 //ATCTT3xFfGN0t6VbvOX9FQ9f-1Df5lieaRmifUzg26SjiM8faQTa_o9P5e068tl1Jh5fPbCPRHbg5qyDUPVierOGqhAW8MYHreJ7TaF4xLV5oL8oUWywTQS1r4ayQKWaMo5Qp8AOS7X2t5kNSPIECxCdsnwsb_UEiAjWWeZr6f01IGmcB5DQJDk=D89BCC47
 const apiToken = 'ATCTT3xFfGN0t6VbvOX9FQ9f-1Df5lieaRmifUzg26SjiM8faQTa_o9P5e068tl1Jh5fPbCPRHbg5qyDUPVierOGqhAW8MYHreJ7TaF4xLV5oL8oUWywTQS1r4ayQKWaMo5Qp8AOS7X2t5kNSPIECxCdsnwsb_UEiAjWWeZr6f01IGmcB5DQJDk=D89BCC47';
